@@ -3,10 +3,8 @@ N = int(raw_input())
 avail = [[True]*33 for _ in range(N+1)]
 
 while 1:
-    try:
-        _i = raw_input()
-    except:
-        break
+    try: _i = raw_input()
+    except: break
 
     cmd = map(int, _i.split('-'))
     if len(cmd) == 3:

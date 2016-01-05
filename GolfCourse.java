@@ -3,7 +3,8 @@ import java.util.*;
 
 public class GolfCourse {
 
-    static final int[][] dirs = { {1, 2}, {2, 1},
+    static final int[][] dirs = {
+        {1, 2}, {2, 1},
         { -1, 2}, { -2, 1},
         {1, -2}, {2, -1},
         { -1, -2}, { -2, -1}
