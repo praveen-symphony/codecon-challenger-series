@@ -6,7 +6,7 @@
 * [x] [Messed up Rugby](MessedUpRugby.py)
 * [x] [Base Arithmetic](BaseArithmetic.py)
 * [x] [A Compliance Problem](AComplianceProblem.py)
-* [x] [Yet Another Compliance Problem](YetAnotherComplianceProblem.java)
+* [x] [Yet Another Compliance Problem](YetAnotherComplianceProblem.py)
 * [x] [Matching Datasets(++)](MatchingDatasets.py)
 * [x] [Matching Gloves](MatchingGloves.java)
 * [x] [Conference Room Scheduler](ConferenceRoomScheduler.py)
