@@ -13,6 +13,6 @@
 * [x] [Golf Course](GolfCourse.java)
 * [x] [Maze Solver](MazeSolver.java)
 * [ ] Apples and Oranges
-* [ ] Galactic Exchange
+* [x] [Galactic Exchange](GalacticExchange.java)
 * [ ] Ring of Fungi
 * [ ] Liar Minesweeper
